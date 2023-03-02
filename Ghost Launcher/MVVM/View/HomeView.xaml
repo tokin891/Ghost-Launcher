@@ -1,0 +1,148 @@
+﻿<UserControl x:Class="Ghost_Launcher.MVVM.View.HomeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Ghost_Launcher.MVVM.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="760">
+    <Grid>
+        <TextBlock Text="Home"
+                       Foreground="Wheat"
+                       FontSize="28"
+                       HorizontalAlignment="Left"
+                       Margin="10,0,0,20"
+                       FontWeight="Bold"/>
+        <StackPanel Orientation="Horizontal" Margin="62,47,51,212">
+            <Border Width="300"
+                    Height="180"
+                    CornerRadius="10">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#B69F9A" Offset="0.0"/>
+                        <GradientStop Color="#353231" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="0,0,400,200"/>
+                </Border.Clip>
+
+                <Grid>
+                    <StackPanel>
+                        <TextBlock Text="Some New Game"
+                                   Foreground="Wheat"
+                                   Margin="10,5,0,0"
+                                   FontSize="25"
+                                   HorizontalAlignment="Center"/>
+                        <StackPanel Grid.Row="1" Margin="0,15,0,0">
+                            <TextBlock Text="Game one"
+                                       Foreground="Wheat"
+                                       Margin="15,0,0,0"
+                                       FontSize="14"/>
+                            <TextBlock Text="Game two"
+                                       Foreground="Wheat"
+                                       Margin="15,0,0,0"
+                                       FontSize="14"/>
+                            <TextBlock Text="Game three"
+                                       Foreground="Wheat"
+                                       Margin="15,0,0,0"
+                                       FontSize="14"/>
+                        </StackPanel>
+                        <Image Source="/Images/gamepad.png"
+                               Width="200"
+                               HorizontalAlignment="Right"
+                               Margin=" 0,-50,-40,0" RenderTransformOrigin="0.5,0.5">
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-12.52"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+                    </StackPanel>
+                </Grid>
+            </Border>
+            <Border Width="300"
+                    Height="180"
+                    CornerRadius="10"
+                    Margin="45,0,0,0">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#5B36D8" Offset="0.0"/>
+                        <GradientStop Color="#353231" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="0,0,400,200"/>
+                </Border.Clip>
+
+                <Grid>
+                    <StackPanel>
+                        <TextBlock Text="Main News"
+                                   Foreground="Wheat"
+                                   Margin="10,5,0,0"
+                                   FontSize="25"
+                                   HorizontalAlignment="Center"/>
+                        <StackPanel Grid.Row="1" Margin="0,15,0,0">
+                            <TextBlock Text="news one"
+                                       Foreground="Wheat"
+                                       Margin="15,0,0,0"
+                                       FontSize="14"/>
+                            <TextBlock Text="news two"
+                                       Foreground="Wheat"
+                                       Margin="15,0,0,0"
+                                       FontSize="14"/>
+                            <TextBlock Text="news three"
+                                       Foreground="Wheat"
+                                       Margin="15,0,0,0"
+                                       FontSize="14"/>
+                        </StackPanel>
+                        <Image Source="/Images/company.png"
+                               Width="200"
+                               HorizontalAlignment="Right"
+                               Margin=" 0,-70,-40,0" RenderTransformOrigin="0.5,0.5">
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-12.52"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </StackPanel>
+        <StackPanel Margin="10,282,14,139">
+            <TextBlock Text="Others"
+                       FontSize="16"
+                       Foreground="Wheat"
+                       FontWeight="Bold"/>
+        </StackPanel>
+        <StackPanel Margin="76,311,82,10" Orientation="Horizontal">
+            <Border Width="123" Height="123"
+                    Background="#B17C20"
+                    CornerRadius="15"
+                    Margin="25,0,0,0"/>
+            <Border Width="123" Height="123"
+                    Background="#B17C20"
+                    CornerRadius="15"
+                    Margin="25,0,0,0"/>
+            <Border Width="123" Height="123"
+                    Background="#B17C20"
+                    CornerRadius="15"
+                    Margin="25,0,0,0"/>
+            <Border Width="123" Height="123"
+                    Background="#B17C20"
+                    CornerRadius="15"
+                    Margin="25,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

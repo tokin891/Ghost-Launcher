@@ -1,0 +1,5 @@
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Release\netcoreapp3.1\Ghost Launcher.csproj.AssemblyReference.cache
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Release\netcoreapp3.1\Theme\MenuButtonTheme.baml
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Release\netcoreapp3.1\Ghost Launcher_MarkupCompile.cache
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Release\netcoreapp3.1\Ghost Launcher_MarkupCompile.lref

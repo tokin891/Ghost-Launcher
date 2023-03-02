@@ -1,0 +1,31 @@
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\bin\Debug\netcoreapp3.1\Ghost Launcher.exe
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\bin\Debug\netcoreapp3.1\Ghost Launcher.deps.json
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\bin\Debug\netcoreapp3.1\Ghost Launcher.runtimeconfig.json
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\bin\Debug\netcoreapp3.1\Ghost Launcher.runtimeconfig.dev.json
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\bin\Debug\netcoreapp3.1\Ghost Launcher.dll
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\bin\Debug\netcoreapp3.1\Ghost Launcher.pdb
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher.csproj.AssemblyReference.cache
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher_MarkupCompile.cache
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher_MarkupCompile.lref
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher.g.resources
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher.AssemblyInfoInputs.cache
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher.AssemblyInfo.cs
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher.dll
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher.pdb
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Ghost Launcher.genruntimeconfig.cache
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Theme\MenuButtonTheme.baml
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Theme\TextboxTheme.baml
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\MVVM\View\HomeView.g.cs
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\MVVM\View\HomeView.baml
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\MVVM\View\GameView.g.cs
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\MVVM\View\GameView.baml
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\MVVM\View\NewsView.g.cs
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\MVVM\View\NewsView.baml
+C:\Users\Okejl\OneDrive\Pulpit\Ghost-Launcher\Ghost Launcher\obj\Debug\netcoreapp3.1\Theme\ExitButtonTheme.baml

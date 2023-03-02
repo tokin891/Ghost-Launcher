@@ -1,0 +1,27 @@
+﻿<Application x:Class="Ghost_Launcher.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Ghost_Launcher"
+             xmlns:wievModel="clr-namespace:Ghost_Launcher.MVVM.WievModel"
+             xmlns:view="clr-namespace:Ghost_Launcher.MVVM.View"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/MenuButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/TextboxTheme.xaml"/>
+                <ResourceDictionary Source="Theme/ExitButtonTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <DataTemplate DataType="{x:Type wievModel:HomeViewModel}">
+                <view:HomeView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type wievModel:GameViewModel}">
+                <view:GameView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type wievModel:NewsViewModel}">
+                <view:NewsView/>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

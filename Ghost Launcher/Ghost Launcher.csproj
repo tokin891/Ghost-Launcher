@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ghost_Launcher</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Images\GP.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\BanerWendigo.png" />
+    <None Remove="Images\company.png" />
+    <None Remove="Images\gamepad.png" />
+    <None Remove="Images\GP.ico" />
+    <None Remove="Images\GP.png" />
+    <None Remove="MVVM\View\BanerWendigo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Fonts\" />
+    <Folder Include="MVVM\Model\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\BanerWendigo.png" />
+    <Resource Include="Images\company.png" />
+    <Resource Include="Images\gamepad.png" />
+    <Resource Include="Images\GP.ico" />
+    <Resource Include="Images\GP.png" />
+    <Resource Include="MVVM\View\BanerWendigo.png" />
+  </ItemGroup>
+
+</Project>
